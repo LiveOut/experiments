@@ -1,0 +1,22 @@
+{
+  "reviews": {
+    "001": {
+      "houseID": "house1",
+      "reviewerID": "person1",
+      "review": "this place is great!",
+      "stars": 4.5
+    },
+    "002": {
+      "houseID": "house1",
+      "reviewerID": "person2",
+      "review": "this place is just ok.",
+      "stars": 3.0
+    },
+    "003": {
+      "houseID": "house2",
+      "reviewerID": "person1",
+      "review": "this place is terrible.",
+      "stars": 1.0
+    },
+  }
+}
